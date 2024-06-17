@@ -1,5 +1,6 @@
 # Kotlinx Serialization Bug
 
+## BUG FIXED in Kotlin 2.0!
 
 While attempting to upgrade one of my projects from Kotlin 1.8.0 to 1.9.10, I encountered a compiler error with serializing generic classes with a field that uses generics.
 
